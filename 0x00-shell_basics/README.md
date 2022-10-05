@@ -8,3 +8,4 @@
 7-movethatfile - Move the file from one directory to another
 8-firstdelete - Delete betty from directory
 9-firstdirdeletion - Delete directory
+ 10-back - a script that changes the working directory to the previous one.
