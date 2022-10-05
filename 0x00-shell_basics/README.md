@@ -7,3 +7,4 @@
 6-firstdirectory - Create a script that creates a directory
 7-movethatfile - Move the file from one directory to another
 8-firstdelete - Delete betty from directory
+9-firstdirdeletion - Delete directory
