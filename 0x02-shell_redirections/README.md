@@ -11,3 +11,4 @@ echo 7-file - Write a shell script that creates a file named
  duplicate last line
 delete js files in directory
  Write a script that counts the number of directories and sub-directories in the current directory.
+Create a script that displays the 10 newest files in the current directory.
