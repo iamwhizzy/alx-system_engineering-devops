@@ -8,3 +8,4 @@
 7-file - Write a shell script that creates a file named  >> README.md
 echo 7-file - Write a shell script that creates a file named
  8-cwd_state- Overwrite files
+ duplicate last line
