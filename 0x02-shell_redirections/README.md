@@ -10,3 +10,4 @@ echo 7-file - Write a shell script that creates a file named
  8-cwd_state- Overwrite files
  duplicate last line
 delete js files in directory
+ Write a script that counts the number of directories and sub-directories in the current directory.
